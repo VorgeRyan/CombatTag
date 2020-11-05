@@ -1,0 +1,7 @@
+name: CombatTag
+main: vorge\CombatTag\CombatTag
+version: 1.0
+api: 3.0.0
+load: POSTWORLD
+author: vorge
+description: "bassicly a combat wall my G"
